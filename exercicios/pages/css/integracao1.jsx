@@ -1,4 +1,4 @@
-import "./integracao1.css"
+//import "./integracao1.css" // erro importar no _app.js
 
 export default function integracao(params) {
     return (
